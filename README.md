@@ -7,7 +7,7 @@ Odin Recipes
     out of all the HTML knowledge I have learned thus far, which does not
     include CSS or Javascript. I hope that this website demonstrates my 
     knowledge of relative and absolute linking, tags, attributes, and 
-    well-formatted, logical, readable code. I also intend to make 
+    well-formatted, logical, readable markup language. I also intend to make 
     extensive use of the command line when possible, using commands such 
     as mkdir, rm, cp, mv, gh, and git. Evidence of its use will not be 
     visible in the code of this project but will further enhance my 
