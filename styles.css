@@ -1,0 +1,26 @@
+html {
+    background-color: rgb(45, 45, 45);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+ul,
+a,
+p {
+    text-align: center;
+    color: inherit;
+}
+
+.main-header {
+    font-weight: bold;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+img {
+    width: 400px;
+}
