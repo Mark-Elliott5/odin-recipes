@@ -1,24 +1,28 @@
 html {
     background-color: rgb(45, 45, 45);
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Optima', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1,
-h2,
-ul,
-a,
-p {
+.center {
     text-align: center;
     color: inherit;
 }
 
-.main-header {
-    font-weight: bold;
+a {
+    color: inherit;
 }
 
-ul {
-    list-style-position: inside;
+.center > ul {
+    display: inline-block;
+}
+
+.main-header {
+    font-weight: 900;
+}
+
+li {
+    text-align: left;
 }
 
 img {
