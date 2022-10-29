@@ -13,7 +13,7 @@ a {
     color: inherit;
 }
 
-.center > ul {
+.center > ul, ol {
     display: inline-block;
 }
 
